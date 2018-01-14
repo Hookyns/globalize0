@@ -1,0 +1,23 @@
+{
+  "name": "globalize0",
+  "version": "0.0.1",
+  "description": "Old version of globalize package",
+  "main": "globalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hookyns/globalize0.git"
+  },
+  "keywords": [
+    "Globalize",
+    "old"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hookyns/globalize0/issues"
+  },
+  "homepage": "https://github.com/Hookyns/globalize0#readme"
+}
